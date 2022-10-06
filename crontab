@@ -20,4 +20,6 @@ SHELL=/bin/sh
 1 6	* * *	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
 0 6	* * 7	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.weekly )
 17 6	1 * *	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
+5 4     * * *   root    sudo apt-get upgrade
+5 4     * * *   root    sudo systemctl reload unattended-upgrades.service
 #
