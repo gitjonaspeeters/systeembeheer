@@ -22,4 +22,4 @@ SHELL=/bin/sh
 17 6	1 * *	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
 5 4     * * *   root    sudo apt-get upgrade
 5 4     * * *   root    sudo systemctl reload unattended-upgrades.service
-#
+*/5 * * * *     root    /etc/scripts/backup.sh
