@@ -22,4 +22,5 @@ SHELL=/bin/sh
 17 6	1 * *	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
 5 4     * * *   root    sudo apt-get upgrade
 5 4     * * *   root    sudo systemctl reload unattended-upgrades.service
-*/1 * * * *     /etc/scripts/incron_config.sh
+*/15 * * * *     /etc/scripts/incron_config.sh
+*/15 * * * *     rsync --rsh='ssh -p22345' -rt /etc r0839302@leia.uclllabs.be:~/backups/
