@@ -23,4 +23,4 @@ SHELL=/bin/sh
 5 4     * * *   root    sudo apt-get upgrade
 5 4     * * *   root    sudo systemctl reload unattended-upgrades.service
 */15 * * * *     /etc/scripts/incron_config.sh
-*/15 * * * *     rsync --rsh='ssh -p22345' -rt /etc r0839302@leia.uclllabs.be:~/backups/
+*/1 * * * *     root rsync --rsh='ssh -p22345' -rt /etc r0839302@leia.uclllabs.be:~/backups/
