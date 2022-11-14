@@ -13,8 +13,7 @@ $TTL    3h
 @       IN      NS      ns1.uclllabs.be.
 @       IN      NS      ns2.uclllabs.be.
 
-;mail server
-@	IN MX 10 mail.jonas-peeters.sb.uclllabs.be.
+
 
 
 ;A records
