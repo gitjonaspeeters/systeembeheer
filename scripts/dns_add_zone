@@ -1,59 +1,43 @@
-if [ "$EUID" -ne 0 ]; then
-        echo "you are not root, come back when you are, BYE"
-        exit
+#!/bin/bash
+if [[ $EUID -ne 0 ]]; then
+	   echo This script must be run as root
+	      exit 0;
 fi
 
+if [ -z $1 ]
+then
+	echo needs a subdomain
+	exit 0;
+fi
 
-
-zone=$1
-
-FILENAME='db.'"$zone"'.jonas-peeters.sb.uclllabs.be'
-FILE=/etc/bind/zones/$FILENAME
-if test -f "$FILE"; then
-        echo 'the zone '"$1"' already exists, try another one!'
-else
-
-
-
-input="/etc/bind/named.conf.local"
-echo 'zone "'"$zone"'.jonas-peeters.sb.uclllabs.be" {
+cat <<EOF>> /etc/bind/named.conf.mrt-zones
+zone "$1.jonas-peeters.sb.uclllabs.be"  {
         type master;
-        file "/etc/bind/zones/'"$FILENAME"'";
+        file "/etc/bind/db.$1.jonas-peeters.sb.uclllabs.be";
+		
 };
-' >> $input
-
-
-output=/etc/bind/zones/$FILENAME
-echo '
-$TTL 300     ;86400
-$ORIGIN '"$zone"'.jonas-peeters.sb.uclllabs.be.
-@       IN      SOA    ns.'"$zone"'.jonas-peeters.sb.uclllabs.be. root.jonas-peeters.sb.uclllabs.be. (
-                                10              ;Serial
-                                604800          ;Refresh
-                                86400           ;Retry
-                                2419200         ;Expire
-                                86400 )         ;Negative Cache TTL
-
-@       IN      NS      ns.jonas-peeters.sb.uclllabs.be.
-
-ns      IN       A      193.191.177.143
-@       IN       A      193.191.177.143
-' >> $output
-
-
-DBFILE=/etc/bind/db.jonas-peeters.sb.uclllabs.be
-echo "$zone"'	IN	NS	ns.jonas-peeters.sb.uclllabs.be.' >> $DBFILE
-
-
-Serial=$(grep 'Serial' /etc/bind/db.jonas-peeters.sb.uclllabs.be)
-SerialNumber=$(echo $Serial | sed 's/[^0-9]*//g')
-((SerialNumber++))
-newSerial='                                '"$SerialNumber"'        ;Serial'
-sed -i "s/.*Serial.*/\t\t\t      $newSerial/g" /etc/bind/db.jonas-peeters.sb.uclllabs.be
-
-
-
+EOF
+cat <<EOF>> /etc/bind/db.$1.jonas-peeters.sb.uclllabs.be
+;
+; BIND data file for local loopback interface
+;
+\$TTL    2M
+@       IN      SOA     ns.$1.jonas-peeters.sb.uclllabs.be. root.$1.jonas-peeters.sb.uclllabs.be. (
+2 ; Serial
+                             2M         ; Refresh
+                             2M         ; Retry
+                             2M         ; Expire
+                             2M )       ; Negative Cache TTL
+;
+@       IN      NS     ns.jonas-peeters.sb.uclllabs.be.
+@	IN	A	193.191.177.163
+ns	IN	A	193.191.177.163
+EOF
+echo -e "$1	IN	NS	ns.jonas-peeters.sb.uclllabs.be." >> /etc/bind/db.jonas-peeters.sb.uclllabs.be
+i=$(grep Serial /etc/bind/db.jonas-peeters.sb.uclllabs.be | cut -d' ' -f1)
+echo $i
+j=$((i+1))
+echo $j
+sed -i "s/$i ; Serial/$j ; Serial/" /etc/bind/db.jonas-peeters.sb.uclllabs.be
+rndc reload
 systemctl restart bind9
-
-
-fi
