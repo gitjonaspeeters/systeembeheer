@@ -1,0 +1,59 @@
+if [ "$EUID" -ne 0 ]; then
+        echo "you are not root, come back when you are, BYE"
+        exit
+fi
+
+
+
+zone=$1
+
+FILENAME='db.'"$zone"'.jonas-peeters.sb.uclllabs.be'
+FILE=/etc/bind/zones/$FILENAME
+if test -f "$FILE"; then
+        echo 'the zone '"$1"' already exists, try another one!'
+else
+
+
+
+input="/etc/bind/named.conf.local"
+echo 'zone "'"$zone"'.jonas-peeters.sb.uclllabs.be" {
+        type master;
+        file "/etc/bind/zones/'"$FILENAME"'";
+};
+' >> $input
+
+
+output=/etc/bind/zones/$FILENAME
+echo '
+$TTL 300     ;86400
+$ORIGIN '"$zone"'.jonas-peeters.sb.uclllabs.be.
+@       IN      SOA    ns.'"$zone"'.jonas-peeters.sb.uclllabs.be. root.jonas-peeters.sb.uclllabs.be. (
+                                10              ;Serial
+                                604800          ;Refresh
+                                86400           ;Retry
+                                2419200         ;Expire
+                                86400 )         ;Negative Cache TTL
+
+@       IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+
+ns      IN       A      193.191.177.143
+@       IN       A      193.191.177.143
+' >> $output
+
+
+DBFILE=/etc/bind/db.jonas-peeters.sb.uclllabs.be
+echo "$zone"'	IN	NS	ns.jonas-peeters.sb.uclllabs.be.' >> $DBFILE
+
+
+Serial=$(grep 'Serial' /etc/bind/db.jonas-peeters.sb.uclllabs.be)
+SerialNumber=$(echo $Serial | sed 's/[^0-9]*//g')
+((SerialNumber++))
+newSerial='                                '"$SerialNumber"'        ;Serial'
+sed -i "s/.*Serial.*/\t\t\t      $newSerial/g" /etc/bind/db.jonas-peeters.sb.uclllabs.be
+
+
+
+systemctl restart bind9
+
+
+fi
