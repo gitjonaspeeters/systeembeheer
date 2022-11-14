@@ -13,5 +13,5 @@ zone "jonas-peeters.sb.uclllabs.be" {
 
 zone "167.177.191.193.in-addr.arpa" {
        type master;
-       file "/etc/bind/zones/master/db.193.177.191.193";
+       file "/etc/bind/zones/master/db.193.191.177.167";
 };
