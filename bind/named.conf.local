@@ -6,3 +6,12 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 
+zone "jonas-peeters.sb.uclllabs.be" {
+       type master;
+       file "/etc/bind/zones/master/db.jonas-peeters.sb.uclllabs.be";
+};
+
+zone "167.177.191.193.in-addr.arpa" {
+       type master;
+       file "/etc/bind/zones/master/db.193.177.191.193";
+};
