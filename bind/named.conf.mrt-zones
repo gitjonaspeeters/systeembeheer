@@ -1,0 +1,5 @@
+zone "fooba.jonas-peeters.sb.uclllabs.be"  {
+        type master;
+        file "/etc/bind/db.fooba.jonas-peeters.sb.uclllabs.be";
+		
+};
