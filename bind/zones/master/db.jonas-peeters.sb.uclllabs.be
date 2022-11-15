@@ -3,7 +3,7 @@
 ;
 $TTL    3h
 @       IN      SOA     jonas-peeters.sb.uclllabs.be. root.jonas-peeters.sb.uclllabs.be. (
-			 11	 ;Serial
+			 12	 ;Serial
                           3h       ; Refresh after 3 hours
                           1h       ; Retry after 1 hour
                           1w       ; Expire after 1 week
@@ -20,6 +20,8 @@ $TTL    3h
 www	IN      A       193.191.177.167
 ns	IN	A	193.191.177.167
 test	IN	A	193.191.177.254
+www1	IN	A	193.191.177.167
+www2	IN	A	193.191.177.167
 hallo                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
 appel                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
 subzonedee6he                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
