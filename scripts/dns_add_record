@@ -1,62 +1,49 @@
 #!/bin/bash
-if [[ $EUID -ne 0 ]]; then
-	   echo This script must be run as root
-	      exit 0;
+
+# check if root
+if [ "$EUID" -ne 0 ]
+  then echo "Please run as root";
+  exit 1;
 fi
 
-if [ -z $1 ]
-then
-	        echo needs input
-		        exit 0;
-fi
-if [ "$1" == "-t" ];then
-	while getopts t: option; do
-		case ${option}
-		in
-			t) TYPE=${OPTARG};;
-		esac
-	done
-	if [ "$TYPE" == "MX" ]; then
-		ZONE=echo $5
-		echo "@		     IN	      MX	$3.$5." >> /etc/bind/db.$ZONE
-		echo "$3	     IN	       A	$4" >> /etc/bind/db.$ZONE
-		i=$(grep Serial /etc/bind/db.$ZONE | cut -d' ' -f1)
-		
-		j=$((i+1))
-		
-		sed -i "s/$i ; Serial/$j ; Serial/" /etc/bind/db.$ZONE
-		
-	elif [ "$TYPE" = "CNAME" ]
-	then
-		ZONE=$4
-		echo "$3	    IN	     CNAME	$4" >> /etc/bind/db.$ZONE
-		i=$(grep Serial /etc/bind/db.$ZONE | cut -d' ' -f1)
-		
-		j=$((i+1))
-		
-		sed -i "s/$i ; Serial/$j ; Serial/" /etc/bind/db.$ZONE
-		
-	elif [ "$TYPE" == "A" ]
-	then
-		ZONE=$5
-		echo "$3		IN	A	$4" >> /etc/bind/db.$ZONE
-		i=$(grep Serial /etc/bind/db.$ZONE | cut -d' ' -f1)
-		
-		j=$((i+1))
-		
-		sed -i "s/$i ; Serial/$j ; Serial/" /etc/bind/db.$ZONE		
-	else
-		echo no valid dns record
-		exit 0;
-	fi
+
+if [ -n "$1" ]; then
+if [[ $1 = "-t" ]]; then
+        case $2 in
+	# When given recordtype matches 'A'
+        A )
+        echo -e "$3	IN	A	$4" >> /etc/bind/zones/master/db."$5"
+        DB="/etc/bind/zones/master/db.$5"
+	echo "added A record to db.$5"
+        ;;
+	# When given recordtype matches 'MX'
+        MX )
+        echo -e "@	IN      MX	10	$3.$5." >> /etc/bind/zones/master/db."$5"
+        echo -e "$3	IN      A       $4" >> /etc/bind/zones/master/db."$5"
+        DB="/etc/bind/zones/master/db.$5"
+	echo "added MX and A record to db.$5"
+        ;;
+	# When given recordtype matches 'CNAME'
+        CNAME )
+        DB="/etc/bind/zones/master/db.$4"
+	echo -e "$3	IN	CNAME   $4." >> "$DB"
+	echo "added CNAME record to db.$5"
+        ;;
+        esac
+        else
+        echo -e "$1     IN      A       $2" >> /etc/bind/zones/master/db."$3"
+        DB="/etc/bind/zones/master/db.$3"
+	echo "DEFAULT: added A record to db.$5"
+        fi
+
+	last=$(grep "Serial" $DB | tr -dc '0-9')
+	new=$((last + 1))
+	sed -i "s/.*Serial.*/\t\t        $new    ;Serial/g" $DB
+
+        rndc reload
+        systemctl restart bind9
+	systemctl status bind9
 else
-	ZONE=$3
-	echo "$1		IN	A	$2" >> /etc/bind/zones/zone.$ZONE
-	i=$(grep Serial /etc/bind/db.$ZONE | cut -d' ' -f1)
-	
-	j=$((i+1))
-	
-	sed -i "s/$i ; Serial/$j ; Serial/" /etc/bind/db.$ZONE
+        echo -e "Command not found: Use this format: dns_add_record -t A || CNAME || MX"
 fi
 
-rndc reload

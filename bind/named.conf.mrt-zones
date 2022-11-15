@@ -1,5 +1,20 @@
-zone "fooba.jonas-peeters.sb.uclllabs.be"  {
-        type master;
-        file "/etc/bind/db.fooba.jonas-peeters.sb.uclllabs.be";
-		
+
+
+// hallo config
+zone hallo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.hallo.jonas-peeters.sb.uclllabs.be";
+	notify yes;
+};
+
+// appel config
+zone appel.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.appel.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedee6he config
+zone subzonedee6he.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedee6he.jonas-peeters.sb.uclllabs.be";
 };
