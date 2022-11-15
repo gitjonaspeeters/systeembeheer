@@ -18,3 +18,15 @@ zone subzonedee6he.jonas-peeters.sb.uclllabs.be. {
 	type master;
 	file "/etc/bind/zones/master/db.subzonedee6he.jonas-peeters.sb.uclllabs.be";
 };
+
+// subzonehe1ae0 config
+zone subzonehe1ae0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehe1ae0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejae1wo config
+zone subzonejae1wo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejae1wo.jonas-peeters.sb.uclllabs.be";
+};
