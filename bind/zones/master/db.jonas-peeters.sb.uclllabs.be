@@ -3,7 +3,7 @@
 ;
 $TTL    3h
 @       IN      SOA     jonas-peeters.sb.uclllabs.be. root.jonas-peeters.sb.uclllabs.be. (
-			 34	 ;Serial
+			 40	 ;Serial
                           3h       ; Refresh after 3 hours
                           1h       ; Retry after 1 hour
                           1w       ; Expire after 1 week
@@ -49,3 +49,9 @@ supersecure                                IN      NS      ns.jonas-peeters.sb.u
 t                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
 _acme-challenge.jonas-peeters.sb.uclllabs.be.	IN	TXT	EouIJDvte48XYq9mhUy9dXZbhZG_COekYlTzZK3Echc
 _acme-challenge.jonas-peeters.sb.uclllabs.be.	IN	TXT	xiJxBjzjNb5udbznbB9nU3WP0uf0fPKNE-1N5K1YTE8
+subzonecee5ai                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneohk7va                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneieyah7                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneyahs4o                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzonechel1k                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzonechae9k                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.

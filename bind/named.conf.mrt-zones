@@ -138,3 +138,39 @@ zone t.jonas-peeters.sb.uclllabs.be. {
 	type master;
 	file "/etc/bind/zones/master/db.t.jonas-peeters.sb.uclllabs.be";
 };
+
+// subzonecee5ai config
+zone subzonecee5ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecee5ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohk7va config
+zone subzoneohk7va.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohk7va.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneieyah7 config
+zone subzoneieyah7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneieyah7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyahs4o config
+zone subzoneyahs4o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyahs4o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechel1k config
+zone subzonechel1k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechel1k.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechae9k config
+zone subzonechae9k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechae9k.jonas-peeters.sb.uclllabs.be";
+};
