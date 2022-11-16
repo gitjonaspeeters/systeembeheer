@@ -3,7 +3,7 @@
 ;
 $TTL    3h
 @       IN      SOA     jonas-peeters.sb.uclllabs.be. root.jonas-peeters.sb.uclllabs.be. (
-			 14	 ;Serial
+			 28	 ;Serial
                           3h       ; Refresh after 3 hours
                           1h       ; Retry after 1 hour
                           1w       ; Expire after 1 week
@@ -27,3 +27,17 @@ appel                                IN      NS      ns.jonas-peeters.sb.uclllab
 subzonedee6he                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
 subzonehe1ae0                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
 subzonejae1wo                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneaish0u                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzonekohv7e                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneiethu0                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneyir9ah                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneyie8ov                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneahwa6i                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneahd8oo                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzonehei4bo                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneaizie1                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzonegeveo8                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzonechie6i                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneuj7thi                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneii6tai                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
+subzoneoopi0o                                IN      NS      ns.jonas-peeters.sb.uclllabs.be.
