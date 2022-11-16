@@ -1,1 +1,6 @@
 mrt/
+/etc/bind/named.conf.mrt-zones
+../alternatives/
+incron.d/
+alternatives/
+cron.d/
