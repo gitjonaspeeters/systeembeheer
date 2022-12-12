@@ -6,7 +6,7 @@ alternatives/
 cron.d/
 incron.d/etc.conf
 bind/named.conf.mrt-zones
-bind/zones/db.mrt.*
-bind/zones/mrt-zones
+bind/zones/master/db.mrt.*
+bind/zones/master/mrt-zones
 apache2/sites-enabled
 apache2/sites-available
