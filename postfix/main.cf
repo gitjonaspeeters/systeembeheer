@@ -11,11 +11,21 @@ append_dot_mydomain = no
 
 alias_maps = hash:/etc/aliases
 alias_database = hash:/etc/aliases
+myhostname = mx.jonas-peeters.sb.uclllabs.be
+mydomain = mx.jonas-peeters.sb.uclllabs.be
+mail_spool_directory = /var/mail
 mydestination = $myhostname, localhost.$mydomain, localhost
-relayhost = 
-mynetworks = 127.0.0.0/8
-inet_interfaces = loopback-only
+relayhost =
+mynetworks = 193.191.177.0/24, 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16, 127.0.0.0/8, [2001:6a8:2880::]/64, 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128 193.191.177.0/24
+inet_interfaces = all
 recipient_delimiter = +
 
 compatibility_level = 2
+
+relay_domains= mx.jonas-peeters.sb.uclllabs.be
+
+
+smtpd_use_tls = no
+
+
 
