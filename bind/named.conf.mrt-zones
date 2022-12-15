@@ -174,3 +174,4101 @@ zone subzonechae9k.jonas-peeters.sb.uclllabs.be. {
 	type master;
 	file "/etc/bind/zones/master/db.subzonechae9k.jonas-peeters.sb.uclllabs.be";
 };
+
+// subzoneev1xah config
+zone subzoneev1xah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneev1xah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneieng6d config
+zone subzoneieng6d.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneieng6d.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneapeix8 config
+zone subzoneapeix8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneapeix8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneov6oht config
+zone subzoneov6oht.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneov6oht.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegee6ai config
+zone subzonegee6ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegee6ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonephu4hi config
+zone subzonephu4hi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonephu4hi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneudaer2 config
+zone subzoneudaer2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneudaer2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeih6ee config
+zone subzoneeih6ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeih6ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonenah8ee config
+zone subzonenah8ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonenah8ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneei5uce config
+zone subzoneei5uce.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneei5uce.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneec0tea config
+zone subzoneec0tea.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneec0tea.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonenoup2a config
+zone subzonenoup2a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonenoup2a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneais2wa config
+zone subzoneais2wa.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneais2wa.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepae3ga config
+zone subzonepae3ga.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepae3ga.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiezie5 config
+zone subzoneiezie5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiezie5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneush5mi config
+zone subzoneush5mi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneush5mi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyi0pho config
+zone subzoneyi0pho.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyi0pho.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneweif6a config
+zone subzoneweif6a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneweif6a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelado7b config
+zone subzonelado7b.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelado7b.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaiy5ie config
+zone subzoneaiy5ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaiy5ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahc6ti config
+zone subzoneahc6ti.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahc6ti.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneota6fo config
+zone subzoneota6fo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneota6fo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeit4su config
+zone subzoneeit4su.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeit4su.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahtam3 config
+zone subzoneahtam3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahtam3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuo2uch config
+zone subzoneuo2uch.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuo2uch.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyaegh0 config
+zone subzoneyaegh0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyaegh0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethoo5p config
+zone subzonethoo5p.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethoo5p.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneee2chi config
+zone subzoneee2chi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneee2chi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonearu1oo config
+zone subzonearu1oo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonearu1oo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneov7oob config
+zone subzoneov7oob.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneov7oob.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiga2ud config
+zone subzoneiga2ud.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiga2ud.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyoo3wo config
+zone subzoneyoo3wo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyoo3wo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahwuu6 config
+zone subzoneahwuu6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahwuu6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneooc6hu config
+zone subzoneooc6hu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneooc6hu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelo1ahr config
+zone subzonelo1ahr.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelo1ahr.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneieho9t config
+zone subzoneieho9t.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneieho9t.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoop9ko config
+zone subzoneoop9ko.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoop9ko.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonemoogh0 config
+zone subzonemoogh0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonemoogh0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegohla3 config
+zone subzonegohla3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegohla3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaenoc9 config
+zone subzoneaenoc9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaenoc9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedegu2h config
+zone subzonedegu2h.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedegu2h.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaero7i config
+zone subzoneaero7i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaero7i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejee1ho config
+zone subzonejee1ho.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejee1ho.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaengu7 config
+zone subzoneaengu7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaengu7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohs6va config
+zone subzoneohs6va.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohs6va.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuo1aix config
+zone subzoneuo1aix.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuo1aix.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiku6uu config
+zone subzoneiku6uu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiku6uu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoc7aez config
+zone subzoneoc7aez.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoc7aez.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefia2ze config
+zone subzonefia2ze.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefia2ze.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneethah8 config
+zone subzoneethah8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneethah8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneing3yu config
+zone subzoneing3yu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneing3yu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiemoo1 config
+zone subzoneiemoo1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiemoo1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneung3he config
+zone subzoneung3he.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneung3he.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneool1ei config
+zone subzoneool1ei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneool1ei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneta3ewi config
+zone subzoneta3ewi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneta3ewi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneool5ai config
+zone subzoneool5ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneool5ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejoo7io config
+zone subzonejoo7io.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejoo7io.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeich2u config
+zone subzoneeich2u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeich2u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohb3th config
+zone subzoneohb3th.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohb3th.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekie4ei config
+zone subzonekie4ei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekie4ei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeech9t config
+zone subzoneeech9t.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeech9t.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehieh7f config
+zone subzonehieh7f.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehieh7f.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiv6bai config
+zone subzoneiv6bai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiv6bai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeevai8 config
+zone subzoneeevai8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeevai8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeyee6s config
+zone subzoneeyee6s.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeyee6s.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeeng6a config
+zone subzoneeeng6a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeeng6a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefica5e config
+zone subzonefica5e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefica5e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethiin4 config
+zone subzonethiin4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethiin4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechit5b config
+zone subzonechit5b.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechit5b.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonede2mai config
+zone subzonede2mai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonede2mai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiesh2w config
+zone subzoneiesh2w.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiesh2w.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequeth6 config
+zone subzonequeth6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequeth6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneek7fe9 config
+zone subzoneek7fe9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneek7fe9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneifahj3 config
+zone subzoneifahj3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneifahj3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekupha3 config
+zone subzonekupha3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekupha3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevoo4li config
+zone subzonevoo4li.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevoo4li.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecheej0 config
+zone subzonecheej0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecheej0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneto2ufo config
+zone subzoneto2ufo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneto2ufo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahch2k config
+zone subzoneahch2k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahch2k.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaitae6 config
+zone subzoneaitae6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaitae6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetha3ah config
+zone subzonetha3ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetha3ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyeed9o config
+zone subzoneyeed9o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyeed9o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneic2eeh config
+zone subzoneic2eeh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneic2eeh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaitah3 config
+zone subzoneaitah3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaitah3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneethai4 config
+zone subzoneethai4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneethai4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeip1pa config
+zone subzoneeip1pa.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeip1pa.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehum9oh config
+zone subzonehum9oh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehum9oh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneboo1sh config
+zone subzoneboo1sh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneboo1sh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneari5ah config
+zone subzoneari5ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneari5ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegeego4 config
+zone subzonegeego4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegeego4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahh7an config
+zone subzoneahh7an.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahh7an.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneai1eed config
+zone subzoneai1eed.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneai1eed.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaash8o config
+zone subzoneaash8o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaash8o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethue4z config
+zone subzonethue4z.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethue4z.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneco2eku config
+zone subzoneco2eku.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneco2eku.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneag3sha config
+zone subzoneag3sha.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneag3sha.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneme9fei config
+zone subzoneme9fei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneme9fei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonece7peo config
+zone subzonece7peo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonece7peo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebee4ph config
+zone subzonebee4ph.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebee4ph.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneciyo1g config
+zone subzoneciyo1g.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneciyo1g.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetah6ai config
+zone subzonetah6ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetah6ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegieho6 config
+zone subzonegieho6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegieho6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaha5ma config
+zone subzoneaha5ma.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaha5ma.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetaa8th config
+zone subzonetaa8th.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetaa8th.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebee9cu config
+zone subzonebee9cu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebee9cu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewo1eke config
+zone subzonewo1eke.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewo1eke.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoov9ux config
+zone subzoneoov9ux.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoov9ux.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeedah6 config
+zone subzoneeedah6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeedah6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaicu7i config
+zone subzoneaicu7i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaicu7i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequee3o config
+zone subzonequee3o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequee3o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeite2a config
+zone subzoneeite2a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeite2a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiemaa1 config
+zone subzoneiemaa1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiemaa1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecha7io config
+zone subzonecha7io.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecha7io.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesiet8u config
+zone subzonesiet8u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesiet8u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonearo0oc config
+zone subzonearo0oc.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonearo0oc.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuph7ai config
+zone subzoneuph7ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuph7ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonerae1ap config
+zone subzonerae1ap.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonerae1ap.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezeik1w config
+zone subzonezeik1w.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezeik1w.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneheiwa2 config
+zone subzoneheiwa2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneheiwa2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoph3ak config
+zone subzoneoph3ak.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoph3ak.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneul6ahs config
+zone subzoneul6ahs.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneul6ahs.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaey2oh config
+zone subzoneaey2oh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaey2oh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekohgh8 config
+zone subzonekohgh8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekohgh8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneielei3 config
+zone subzoneielei3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneielei3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiedie3 config
+zone subzoneiedie3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiedie3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegeem8a config
+zone subzonegeem8a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegeem8a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekaofi0 config
+zone subzonekaofi0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekaofi0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneua1fen config
+zone subzoneua1fen.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneua1fen.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneol3lah config
+zone subzoneol3lah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneol3lah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiv2oar config
+zone subzoneiv2oar.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiv2oar.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonephoh3t config
+zone subzonephoh3t.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonephoh3t.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeph0ee config
+zone subzoneeph0ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeph0ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahwi9e config
+zone subzoneahwi9e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahwi9e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneasie0k config
+zone subzoneasie0k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneasie0k.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecahj9t config
+zone subzonecahj9t.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecahj9t.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonexah4za config
+zone subzonexah4za.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonexah4za.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevie6ie config
+zone subzonevie6ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevie6ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebae2so config
+zone subzonebae2so.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebae2so.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaeluy0 config
+zone subzoneaeluy0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaeluy0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneox1eng config
+zone subzoneox1eng.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneox1eng.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyeiz9a config
+zone subzoneyeiz9a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyeiz9a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetah0ch config
+zone subzonetah0ch.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetah0ch.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepi2yoh config
+zone subzonepi2yoh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepi2yoh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonemo2iaz config
+zone subzonemo2iaz.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonemo2iaz.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonereilo5 config
+zone subzonereilo5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonereilo5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedei5ei config
+zone subzonedei5ei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedei5ei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoht3mi config
+zone subzoneoht3mi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoht3mi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeecho6 config
+zone subzoneeecho6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeecho6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuam3on config
+zone subzoneuam3on.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuam3on.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeoyie7 config
+zone subzoneeoyie7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeoyie7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecenee3 config
+zone subzonecenee3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecenee3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeewah6 config
+zone subzoneeewah6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeewah6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedani5w config
+zone subzonedani5w.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedani5w.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevue3um config
+zone subzonevue3um.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevue3um.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebohqu6 config
+zone subzonebohqu6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebohqu6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneke8aag config
+zone subzoneke8aag.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneke8aag.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaeyai9 config
+zone subzoneaeyai9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaeyai9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneceequ9 config
+zone subzoneceequ9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneceequ9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonenee7ni config
+zone subzonenee7ni.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonenee7ni.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuis6th config
+zone subzoneuis6th.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuis6th.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiela5o config
+zone subzoneiela5o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiela5o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepee1ch config
+zone subzonepee1ch.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepee1ch.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoneid9 config
+zone subzoneoneid9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoneid9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneteig7a config
+zone subzoneteig7a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneteig7a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethu4qu config
+zone subzonethu4qu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethu4qu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecee9ev config
+zone subzonecee9ev.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecee9ev.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonene3thi config
+zone subzonene3thi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonene3thi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehoo7mu config
+zone subzonehoo7mu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehoo7mu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetaek7w config
+zone subzonetaek7w.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetaek7w.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneimie3i config
+zone subzoneimie3i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneimie3i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonephi0ge config
+zone subzonephi0ge.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonephi0ge.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegae0su config
+zone subzonegae0su.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegae0su.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefiod0x config
+zone subzonefiod0x.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefiod0x.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebujoh4 config
+zone subzonebujoh4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebujoh4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejiqu8a config
+zone subzonejiqu8a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejiqu8a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezoos9i config
+zone subzonezoos9i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezoos9i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonees8yoo config
+zone subzonees8yoo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonees8yoo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegu2win config
+zone subzonegu2win.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegu2win.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneraik7p config
+zone subzoneraik7p.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneraik7p.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoowe5i config
+zone subzoneoowe5i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoowe5i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiet7eo config
+zone subzoneiet7eo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiet7eo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneooroh8 config
+zone subzoneooroh8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneooroh8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohtai7 config
+zone subzoneohtai7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohtai7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedai2em config
+zone subzonedai2em.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedai2em.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuc6pah config
+zone subzoneuc6pah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuc6pah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesiuz0a config
+zone subzonesiuz0a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesiuz0a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohl3wi config
+zone subzoneohl3wi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohl3wi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoor6ji config
+zone subzoneoor6ji.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoor6ji.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejeich6 config
+zone subzonejeich6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejeich6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohdei8 config
+zone subzoneohdei8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohdei8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetha9oe config
+zone subzonetha9oe.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetha9oe.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonemaew1l config
+zone subzonemaew1l.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonemaew1l.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonela2pai config
+zone subzonela2pai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonela2pai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequaug5 config
+zone subzonequaug5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequaug5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneau0qua config
+zone subzoneau0qua.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneau0qua.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegahko3 config
+zone subzonegahko3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegahko3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeepai1 config
+zone subzoneeepai1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeepai1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneseid2b config
+zone subzoneseid2b.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneseid2b.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiaj6pi config
+zone subzoneiaj6pi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiaj6pi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahd3ah config
+zone subzoneahd3ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahd3ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeif9we config
+zone subzoneeif9we.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeif9we.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebeiv5z config
+zone subzonebeiv5z.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebeiv5z.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequi1fu config
+zone subzonequi1fu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequi1fu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonenaceo0 config
+zone subzonenaceo0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonenaceo0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepujuc5 config
+zone subzonepujuc5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepujuc5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeiz4to config
+zone subzoneeiz4to.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeiz4to.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuv6ohh config
+zone subzoneuv6ohh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuv6ohh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequeiz1 config
+zone subzonequeiz1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequeiz1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohjai0 config
+zone subzoneohjai0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohjai0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevoo3ae config
+zone subzonevoo3ae.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevoo3ae.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesoo5ie config
+zone subzonesoo5ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesoo5ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevo6iem config
+zone subzonevo6iem.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevo6iem.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonexie3pe config
+zone subzonexie3pe.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonexie3pe.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeo8bah config
+zone subzoneeo8bah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeo8bah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneech0oo config
+zone subzoneech0oo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneech0oo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevohtu9 config
+zone subzonevohtu9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevohtu9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechai7i config
+zone subzonechai7i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechai7i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecah1aj config
+zone subzonecah1aj.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecah1aj.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahk0uo config
+zone subzoneahk0uo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahk0uo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezei3di config
+zone subzonezei3di.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezei3di.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegi2sha config
+zone subzonegi2sha.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegi2sha.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegah7de config
+zone subzonegah7de.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegah7de.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyahb7v config
+zone subzoneyahb7v.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyahb7v.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneej6pao config
+zone subzoneej6pao.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneej6pao.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneka5row config
+zone subzoneka5row.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneka5row.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeiph6r config
+zone subzoneeiph6r.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeiph6r.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneing5ma config
+zone subzoneing5ma.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneing5ma.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohqu2d config
+zone subzoneohqu2d.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohqu2d.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneefuph4 config
+zone subzoneefuph4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneefuph4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneooz6ko config
+zone subzoneooz6ko.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneooz6ko.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecha0pu config
+zone subzonecha0pu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecha0pu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejaet4u config
+zone subzonejaet4u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejaet4u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaerai5 config
+zone subzoneaerai5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaerai5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecah2oo config
+zone subzonecah2oo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecah2oo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebaax3i config
+zone subzonebaax3i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebaax3i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoolie4 config
+zone subzoneoolie4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoolie4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegooph3 config
+zone subzonegooph3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegooph3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneit7dei config
+zone subzoneit7dei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneit7dei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeo3ieb config
+zone subzoneeo3ieb.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeo3ieb.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneshiud2 config
+zone subzoneshiud2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneshiud2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneshaac8 config
+zone subzoneshaac8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneshaac8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefee0me config
+zone subzonefee0me.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefee0me.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekiaji9 config
+zone subzonekiaji9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekiaji9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebah1xe config
+zone subzonebah1xe.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebah1xe.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneveexo6 config
+zone subzoneveexo6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneveexo6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezie1ai config
+zone subzonezie1ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezie1ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevi4pi6 config
+zone subzonevi4pi6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevi4pi6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneosi5ah config
+zone subzoneosi5ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneosi5ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechiz8a config
+zone subzonechiz8a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechiz8a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethae7a config
+zone subzonethae7a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethae7a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepa0aev config
+zone subzonepa0aev.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepa0aev.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoph0ic config
+zone subzoneoph0ic.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoph0ic.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneue9sho config
+zone subzoneue9sho.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneue9sho.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebi6xah config
+zone subzonebi6xah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebi6xah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaba5ba config
+zone subzoneaba5ba.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaba5ba.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneagh9do config
+zone subzoneagh9do.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneagh9do.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaikee3 config
+zone subzoneaikee3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaikee3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneexohl2 config
+zone subzoneexohl2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneexohl2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefa7nir config
+zone subzonefa7nir.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefa7nir.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoonaf0 config
+zone subzoneoonaf0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoonaf0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneujohd3 config
+zone subzoneujohd3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneujohd3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohpho0 config
+zone subzoneohpho0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohpho0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejai8lu config
+zone subzonejai8lu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejai8lu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetah9ah config
+zone subzonetah9ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetah9ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneso6eiw config
+zone subzoneso6eiw.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneso6eiw.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaish0h config
+zone subzoneaish0h.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaish0h.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonexier0w config
+zone subzonexier0w.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonexier0w.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneietam3 config
+zone subzoneietam3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneietam3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneio8iav config
+zone subzoneio8iav.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneio8iav.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoe4xae config
+zone subzoneoe4xae.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoe4xae.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefaoc1n config
+zone subzonefaoc1n.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefaoc1n.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegie8ie config
+zone subzonegie8ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegie8ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekohsa8 config
+zone subzonekohsa8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekohsa8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneceegh5 config
+zone subzoneceegh5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneceegh5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegeigh7 config
+zone subzonegeigh7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegeigh7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneed7iey config
+zone subzoneed7iey.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneed7iey.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehoh1ai config
+zone subzonehoh1ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehoh1ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohk9re config
+zone subzoneohk9re.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohk9re.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeitie6 config
+zone subzoneeitie6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeitie6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeem3ni config
+zone subzoneeem3ni.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeem3ni.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahpiu3 config
+zone subzoneahpiu3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahpiu3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneupi9ir config
+zone subzoneupi9ir.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneupi9ir.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahb3ai config
+zone subzoneahb3ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahb3ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneizap5i config
+zone subzoneizap5i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneizap5i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneai4noa config
+zone subzoneai4noa.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneai4noa.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneii8sha config
+zone subzoneii8sha.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneii8sha.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonemeeb4z config
+zone subzonemeeb4z.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonemeeb4z.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiyoor3 config
+zone subzoneiyoor3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiyoor3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoh5ay7 config
+zone subzoneoh5ay7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoh5ay7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneseiqu2 config
+zone subzoneseiqu2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneseiqu2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuotha3 config
+zone subzoneuotha3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuotha3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesae8eu config
+zone subzonesae8eu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesae8eu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoofey2 config
+zone subzoneoofey2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoofey2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneour3go config
+zone subzoneour3go.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneour3go.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegio7zi config
+zone subzonegio7zi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegio7zi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeiph6i config
+zone subzoneeiph6i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeiph6i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneshiev9 config
+zone subzoneshiev9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneshiev9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaik8au config
+zone subzoneaik8au.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaik8au.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaizeu6 config
+zone subzoneaizeu6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaizeu6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevahph9 config
+zone subzonevahph9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevahph9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepithi6 config
+zone subzonepithi6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepithi6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekeej1s config
+zone subzonekeej1s.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekeej1s.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetaesh6 config
+zone subzonetaesh6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetaesh6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneianua7 config
+zone subzoneianua7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneianua7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaeyao3 config
+zone subzoneaeyao3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaeyao3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedai5oj config
+zone subzonedai5oj.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedai5oj.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezei3ow config
+zone subzonezei3ow.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezei3ow.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelieng5 config
+zone subzonelieng5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelieng5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoer6oe config
+zone subzoneoer6oe.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoer6oe.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefei2ae config
+zone subzonefei2ae.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefei2ae.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezoow4k config
+zone subzonezoow4k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezoow4k.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehi9pho config
+zone subzonehi9pho.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehi9pho.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevo4yas config
+zone subzonevo4yas.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevo4yas.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejee3ph config
+zone subzonejee3ph.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejee3ph.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaxo1ai config
+zone subzoneaxo1ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaxo1ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneecha1d config
+zone subzoneecha1d.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneecha1d.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonenaa2ce config
+zone subzonenaa2ce.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonenaa2ce.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepho8ie config
+zone subzonepho8ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepho8ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehoh8xa config
+zone subzonehoh8xa.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehoh8xa.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneraeha6 config
+zone subzoneraeha6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneraeha6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegai7ai config
+zone subzonegai7ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegai7ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneceu1ie config
+zone subzoneceu1ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneceu1ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeeloh7 config
+zone subzoneeeloh7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeeloh7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelung1h config
+zone subzonelung1h.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelung1h.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeiv6ee config
+zone subzoneeiv6ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeiv6ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaez0eo config
+zone subzoneaez0eo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaez0eo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonephoh9l config
+zone subzonephoh9l.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonephoh9l.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecos5uu config
+zone subzonecos5uu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecos5uu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepho7sh config
+zone subzonepho7sh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepho7sh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevaron2 config
+zone subzonevaron2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevaron2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneabe8ar config
+zone subzoneabe8ar.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneabe8ar.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneja9eem config
+zone subzoneja9eem.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneja9eem.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoxai8u config
+zone subzoneoxai8u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoxai8u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneon5ohr config
+zone subzoneon5ohr.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneon5ohr.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneror3tu config
+zone subzoneror3tu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneror3tu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiol7di config
+zone subzoneiol7di.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiol7di.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeid6ch config
+zone subzoneeid6ch.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeid6ch.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelae9ey config
+zone subzonelae9ey.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelae9ey.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeibae4 config
+zone subzoneeibae4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeibae4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebohg5h config
+zone subzonebohg5h.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebohg5h.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaiv0su config
+zone subzoneaiv0su.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaiv0su.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneam2aib config
+zone subzoneam2aib.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneam2aib.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefai8ya config
+zone subzonefai8ya.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefai8ya.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetaipe8 config
+zone subzonetaipe8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetaipe8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaakaf4 config
+zone subzoneaakaf4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaakaf4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneooz1ah config
+zone subzoneooz1ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneooz1ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeesoo8 config
+zone subzoneeesoo8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeesoo8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneduek0p config
+zone subzoneduek0p.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneduek0p.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeib0ch config
+zone subzoneeib0ch.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeib0ch.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneru9gie config
+zone subzoneru9gie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneru9gie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneow3eeh config
+zone subzoneow3eeh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneow3eeh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneloo9ah config
+zone subzoneloo9ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneloo9ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyeech5 config
+zone subzoneyeech5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyeech5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonexo6jei config
+zone subzonexo6jei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonexo6jei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuraev1 config
+zone subzoneuraev1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuraev1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeixi4i config
+zone subzoneeixi4i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeixi4i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneshi8ee config
+zone subzoneshi8ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneshi8ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefee5ei config
+zone subzonefee5ei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefee5ei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneedoh6o config
+zone subzoneedoh6o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneedoh6o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneueki3p config
+zone subzoneueki3p.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneueki3p.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeoqu4a config
+zone subzoneeoqu4a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeoqu4a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewaij0v config
+zone subzonewaij0v.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewaij0v.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiec3tu config
+zone subzoneiec3tu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiec3tu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonexoosh2 config
+zone subzonexoosh2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonexoosh2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoo4mew config
+zone subzoneoo4mew.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoo4mew.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeey9ju config
+zone subzoneeey9ju.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeey9ju.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneweg0qu config
+zone subzoneweg0qu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneweg0qu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethi9fa config
+zone subzonethi9fa.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethi9fa.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaiz6ti config
+zone subzoneaiz6ti.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaiz6ti.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneengei4 config
+zone subzoneengei4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneengei4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneneil6h config
+zone subzoneneil6h.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneneil6h.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeik7re config
+zone subzoneeik7re.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeik7re.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaiwae1 config
+zone subzoneaiwae1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaiwae1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefotoh5 config
+zone subzonefotoh5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefotoh5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahfae4 config
+zone subzoneahfae4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahfae4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelelai8 config
+zone subzonelelai8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelelai8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneugoh4k config
+zone subzoneugoh4k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneugoh4k.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonediebo7 config
+zone subzonediebo7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonediebo7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneie8eez config
+zone subzoneie8eez.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneie8eez.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevueph9 config
+zone subzonevueph9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevueph9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaesa8u config
+zone subzoneaesa8u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaesa8u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedeo7ou config
+zone subzonedeo7ou.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedeo7ou.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonemei2vo config
+zone subzonemei2vo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonemei2vo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohjah9 config
+zone subzoneohjah9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohjah9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonexooy5i config
+zone subzonexooy5i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonexooy5i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiku9ea config
+zone subzoneiku9ea.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiku9ea.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegii9ai config
+zone subzonegii9ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegii9ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethai0u config
+zone subzonethai0u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethai0u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethi7ne config
+zone subzonethi7ne.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethi7ne.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethail8 config
+zone subzonethail8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethail8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegoht2u config
+zone subzonegoht2u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegoht2u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehon1bo config
+zone subzonehon1bo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehon1bo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefoo1ae config
+zone subzonefoo1ae.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefoo1ae.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequie1p config
+zone subzonequie1p.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequie1p.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuuh6nu config
+zone subzoneuuh6nu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuuh6nu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebabie8 config
+zone subzonebabie8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebabie8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeepii8 config
+zone subzoneeepii8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeepii8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesu9aih config
+zone subzonesu9aih.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesu9aih.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehain5y config
+zone subzonehain5y.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehain5y.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneox6dah config
+zone subzoneox6dah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneox6dah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiuyoo9 config
+zone subzoneiuyoo9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiuyoo9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaehu4x config
+zone subzoneaehu4x.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaehu4x.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeec5hi config
+zone subzoneeec5hi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeec5hi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneam4aon config
+zone subzoneam4aon.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneam4aon.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonephi2wi config
+zone subzonephi2wi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonephi2wi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaes5ao config
+zone subzoneaes5ao.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaes5ao.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezish7n config
+zone subzonezish7n.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezish7n.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneov2pag config
+zone subzoneov2pag.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneov2pag.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneshie9e config
+zone subzoneshie9e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneshie9e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethay1z config
+zone subzonethay1z.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethay1z.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepi8phu config
+zone subzonepi8phu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepi8phu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiemex7 config
+zone subzoneiemex7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiemex7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaa0igh config
+zone subzoneaa0igh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaa0igh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaitua4 config
+zone subzoneaitua4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaitua4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneseeph5 config
+zone subzoneseeph5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneseeph5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneees3bo config
+zone subzoneees3bo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneees3bo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneua4eid config
+zone subzoneua4eid.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneua4eid.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneshe4ae config
+zone subzoneshe4ae.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneshe4ae.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonexu8ohm config
+zone subzonexu8ohm.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonexu8ohm.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonericoo3 config
+zone subzonericoo3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonericoo3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahp7ei config
+zone subzoneahp7ei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahp7ei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahfae1 config
+zone subzoneahfae1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahfae1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeex4si config
+zone subzoneeex4si.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeex4si.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneieja3e config
+zone subzoneieja3e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneieja3e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonemei4ho config
+zone subzonemei4ho.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonemei4ho.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejie7is config
+zone subzonejie7is.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejie7is.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecoh6co config
+zone subzonecoh6co.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecoh6co.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesoo9ah config
+zone subzonesoo9ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesoo9ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedae6ch config
+zone subzonedae6ch.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedae6ch.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiziem1 config
+zone subzoneiziem1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiziem1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaedoh0 config
+zone subzoneaedoh0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaedoh0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedoo1ix config
+zone subzonedoo1ix.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedoo1ix.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezaegh5 config
+zone subzonezaegh5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezaegh5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahyie0 config
+zone subzoneahyie0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahyie0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneab2ohw config
+zone subzoneab2ohw.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneab2ohw.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneufah6m config
+zone subzoneufah6m.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneufah6m.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiesah1 config
+zone subzoneiesah1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiesah1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequib6s config
+zone subzonequib6s.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequib6s.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneteif3s config
+zone subzoneteif3s.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneteif3s.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneujai6m config
+zone subzoneujai6m.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneujai6m.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiuj9si config
+zone subzoneiuj9si.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiuj9si.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneineit7 config
+zone subzoneineit7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneineit7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneku3ooj config
+zone subzoneku3ooj.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneku3ooj.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewaz3pa config
+zone subzonewaz3pa.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewaz3pa.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaik7ui config
+zone subzoneaik7ui.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaik7ui.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonenivoo6 config
+zone subzonenivoo6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonenivoo6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethoo4b config
+zone subzonethoo4b.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethoo4b.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonerae9le config
+zone subzonerae9le.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonerae9le.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegepei3 config
+zone subzonegepei3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegepei3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepif6di config
+zone subzonepif6di.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepif6di.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethee8k config
+zone subzonethee8k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethee8k.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohmae8 config
+zone subzoneohmae8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohmae8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonece4so6 config
+zone subzonece4so6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonece4so6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechae3h config
+zone subzonechae3h.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechae3h.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechae2e config
+zone subzonechae2e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechae2e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonethaa6u config
+zone subzonethaa6u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonethaa6u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebaw8ie config
+zone subzonebaw8ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebaw8ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoobio9 config
+zone subzoneoobio9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoobio9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaep1uu config
+zone subzoneaep1uu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaep1uu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaez8fi config
+zone subzoneaez8fi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaez8fi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesee1sh config
+zone subzonesee1sh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesee1sh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehishu0 config
+zone subzonehishu0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehishu0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelie1be config
+zone subzonelie1be.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelie1be.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaeph6l config
+zone subzoneaeph6l.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaeph6l.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecaeb0i config
+zone subzonecaeb0i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecaeb0i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequa3ae config
+zone subzonequa3ae.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequa3ae.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneomi7sh config
+zone subzoneomi7sh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneomi7sh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoog8di config
+zone subzoneoog8di.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoog8di.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelu3fie config
+zone subzonelu3fie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelu3fie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefemek9 config
+zone subzonefemek9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefemek9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewoh1sh config
+zone subzonewoh1sh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewoh1sh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoos1ah config
+zone subzoneoos1ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoos1ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoonee7 config
+zone subzoneoonee7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoonee7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneozoob0 config
+zone subzoneozoob0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneozoob0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneet4eel config
+zone subzoneet4eel.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneet4eel.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahsh6o config
+zone subzoneahsh6o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahsh6o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelieki5 config
+zone subzonelieki5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelieki5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefee4to config
+zone subzonefee4to.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefee4to.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefae0za config
+zone subzonefae0za.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefae0za.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesi4uce config
+zone subzonesi4uce.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesi4uce.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneait5ah config
+zone subzoneait5ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneait5ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneonai0a config
+zone subzoneonai0a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneonai0a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiego5k config
+zone subzoneiego5k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiego5k.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneka3tax config
+zone subzoneka3tax.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneka3tax.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneat1fet config
+zone subzoneat1fet.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneat1fet.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohph0n config
+zone subzoneohph0n.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohph0n.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoox8eh config
+zone subzoneoox8eh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoox8eh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaiw7oh config
+zone subzoneaiw7oh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaiw7oh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneies8mo config
+zone subzoneies8mo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneies8mo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonephie7k config
+zone subzonephie7k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonephie7k.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaiw2oh config
+zone subzoneaiw2oh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaiw2oh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneboh8do config
+zone subzoneboh8do.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneboh8do.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneroo5ch config
+zone subzoneroo5ch.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneroo5ch.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeyot9c config
+zone subzoneeyot9c.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeyot9c.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequei3y config
+zone subzonequei3y.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequei3y.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehe2gai config
+zone subzonehe2gai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehe2gai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewahv7e config
+zone subzonewahv7e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewahv7e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeeko6t config
+zone subzoneeeko6t.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeeko6t.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneboo6th config
+zone subzoneboo6th.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneboo6th.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneomaew5 config
+zone subzoneomaew5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneomaew5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoogh4s config
+zone subzoneoogh4s.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoogh4s.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeib4cu config
+zone subzoneeib4cu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeib4cu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaid7tu config
+zone subzoneaid7tu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaid7tu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeehah7 config
+zone subzoneeehah7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeehah7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaik8ve config
+zone subzoneaik8ve.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaik8ve.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneia0aeb config
+zone subzoneia0aeb.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneia0aeb.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohri1u config
+zone subzoneohri1u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohri1u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohsh4m config
+zone subzoneohsh4m.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohsh4m.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequo4ce config
+zone subzonequo4ce.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequo4ce.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneshai3y config
+zone subzoneshai3y.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneshai3y.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneao8ut5 config
+zone subzoneao8ut5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneao8ut5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneesai0e config
+zone subzoneesai0e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneesai0e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahph6l config
+zone subzoneahph6l.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahph6l.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepaiqu5 config
+zone subzonepaiqu5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepaiqu5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaoc7co config
+zone subzoneaoc7co.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaoc7co.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneda0tu9 config
+zone subzoneda0tu9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneda0tu9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonemoh7ai config
+zone subzonemoh7ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonemoh7ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneche6ie config
+zone subzoneche6ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneche6ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohch8r config
+zone subzoneohch8r.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohch8r.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeiy6di config
+zone subzoneeiy6di.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeiy6di.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneef5ohh config
+zone subzoneef5ohh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneef5ohh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaasee8 config
+zone subzoneaasee8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaasee8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeiwe7z config
+zone subzoneeiwe7z.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeiwe7z.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesa5oox config
+zone subzonesa5oox.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesa5oox.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneua0omi config
+zone subzoneua0omi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneua0omi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoz8qua config
+zone subzoneoz8qua.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoz8qua.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehief8e config
+zone subzonehief8e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehief8e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeeloo6 config
+zone subzoneeeloo6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeeloo6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegooxu8 config
+zone subzonegooxu8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegooxu8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepohh6h config
+zone subzonepohh6h.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepohh6h.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneauhe0o config
+zone subzoneauhe0o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneauhe0o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonephoh3y config
+zone subzonephoh3y.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonephoh3y.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiehae3 config
+zone subzoneiehae3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiehae3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuut6sa config
+zone subzoneuut6sa.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuut6sa.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuivi0o config
+zone subzoneuivi0o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuivi0o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeing5j config
+zone subzoneeing5j.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeing5j.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiphee5 config
+zone subzoneiphee5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiphee5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekauw7r config
+zone subzonekauw7r.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekauw7r.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneooda5a config
+zone subzoneooda5a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneooda5a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiepas6 config
+zone subzoneiepas6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiepas6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepubi0b config
+zone subzonepubi0b.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepubi0b.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneme8boh config
+zone subzoneme8boh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneme8boh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetad1ie config
+zone subzonetad1ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetad1ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecaeph3 config
+zone subzonecaeph3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecaeph3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneua5dip config
+zone subzoneua5dip.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneua5dip.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekeimo3 config
+zone subzonekeimo3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekeimo3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahz7ip config
+zone subzoneahz7ip.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahz7ip.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevoob1y config
+zone subzonevoob1y.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevoob1y.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneia8aeb config
+zone subzoneia8aeb.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneia8aeb.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneipei8a config
+zone subzoneipei8a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneipei8a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesoh6lo config
+zone subzonesoh6lo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesoh6lo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonesoo1ah config
+zone subzonesoo1ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonesoo1ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeeng0u config
+zone subzoneeeng0u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeeng0u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneme5die config
+zone subzoneme5die.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneme5die.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewur8ba config
+zone subzonewur8ba.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewur8ba.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneod5wee config
+zone subzoneod5wee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneod5wee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefaht9a config
+zone subzonefaht9a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefaht9a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneduyah7 config
+zone subzoneduyah7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneduyah7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefe3ahf config
+zone subzonefe3ahf.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefe3ahf.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiupha4 config
+zone subzoneiupha4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiupha4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneriy5ph config
+zone subzoneriy5ph.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneriy5ph.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohgha1 config
+zone subzoneohgha1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohgha1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneciong6 config
+zone subzoneciong6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneciong6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebae2ee config
+zone subzonebae2ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebae2ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevie5de config
+zone subzonevie5de.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevie5de.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeifeo5 config
+zone subzoneeifeo5.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeifeo5.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonenohth4 config
+zone subzonenohth4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonenohth4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneju6joc config
+zone subzoneju6joc.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneju6joc.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonenae2ee config
+zone subzonenae2ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonenae2ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonejej7ee config
+zone subzonejej7ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonejej7ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewohng9 config
+zone subzonewohng9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewohng9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoph6uu config
+zone subzoneoph6uu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoph6uu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiop4ph config
+zone subzoneiop4ph.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiop4ph.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneera3oh config
+zone subzoneera3oh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneera3oh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiutah8 config
+zone subzoneiutah8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiutah8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuob3oi config
+zone subzoneuob3oi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuob3oi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaep3be config
+zone subzoneaep3be.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaep3be.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohco6o config
+zone subzoneohco6o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohco6o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewiesh4 config
+zone subzonewiesh4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewiesh4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonemeiv9j config
+zone subzonemeiv9j.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonemeiv9j.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneieg4xa config
+zone subzoneieg4xa.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneieg4xa.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahj0hi config
+zone subzoneahj0hi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahj0hi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezeiv9e config
+zone subzonezeiv9e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezeiv9e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoozoh1 config
+zone subzoneoozoh1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoozoh1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegohng6 config
+zone subzonegohng6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegohng6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaij0ku config
+zone subzoneaij0ku.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaij0ku.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebah8ph config
+zone subzonebah8ph.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebah8ph.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekohx7l config
+zone subzonekohx7l.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekohx7l.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonene9cah config
+zone subzonene9cah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonene9cah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehoh9ku config
+zone subzonehoh9ku.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehoh9ku.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneweeni6 config
+zone subzoneweeni6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneweeni6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohhoo2 config
+zone subzoneohhoo2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohhoo2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezoh6me config
+zone subzonezoh6me.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezoh6me.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekeipa0 config
+zone subzonekeipa0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekeipa0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneauzai6 config
+zone subzoneauzai6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneauzai6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneezah7n config
+zone subzoneezah7n.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneezah7n.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneya6eex config
+zone subzoneya6eex.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneya6eex.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneroo9ee config
+zone subzoneroo9ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneroo9ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewae4ri config
+zone subzonewae4ri.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewae4ri.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneed8ahx config
+zone subzoneed8ahx.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneed8ahx.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneucai6o config
+zone subzoneucai6o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneucai6o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohth5y config
+zone subzoneohth5y.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohth5y.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelagai7 config
+zone subzonelagai7.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelagai7.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneiseey8 config
+zone subzoneiseey8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneiseey8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechie3i config
+zone subzonechie3i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechie3i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneet1doo config
+zone subzoneet1doo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneet1doo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonezio0eg config
+zone subzonezio0eg.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonezio0eg.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetoosh4 config
+zone subzonetoosh4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetoosh4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeew3aw config
+zone subzoneeew3aw.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeew3aw.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneche3ae config
+zone subzoneche3ae.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneche3ae.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecei5bu config
+zone subzonecei5bu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecei5bu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebie1he config
+zone subzonebie1he.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebie1he.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonele9chi config
+zone subzonele9chi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonele9chi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefie4ch config
+zone subzonefie4ch.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefie4ch.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaidah1 config
+zone subzoneaidah1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaidah1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonexeing6 config
+zone subzonexeing6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonexeing6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaith1u config
+zone subzoneaith1u.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaith1u.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneailo0e config
+zone subzoneailo0e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneailo0e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepoum9g config
+zone subzonepoum9g.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepoum9g.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneooqu8i config
+zone subzoneooqu8i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneooqu8i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneroa6qu config
+zone subzoneroa6qu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneroa6qu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneevai6e config
+zone subzoneevai6e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneevai6e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoog0th config
+zone subzoneoog0th.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoog0th.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyu6ado config
+zone subzoneyu6ado.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyu6ado.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeil9ie config
+zone subzoneeil9ie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeil9ie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepho4ee config
+zone subzonepho4ee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepho4ee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonegai0ei config
+zone subzonegai0ei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonegai0ei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechai5w config
+zone subzonechai5w.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechai5w.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonephou4t config
+zone subzonephou4t.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonephou4t.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelaxoz0 config
+zone subzonelaxoz0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelaxoz0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonene7yie config
+zone subzonene7yie.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonene7yie.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefea5pe config
+zone subzonefea5pe.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefea5pe.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonereezo2 config
+zone subzonereezo2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonereezo2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaep0ai config
+zone subzoneaep0ai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaep0ai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohj5oh config
+zone subzoneohj5oh.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohj5oh.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoree8i config
+zone subzoneoree8i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoree8i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaiyey9 config
+zone subzoneaiyey9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaiyey9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaose5z config
+zone subzoneaose5z.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaose5z.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetahn2c config
+zone subzonetahn2c.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetahn2c.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahl8ji config
+zone subzoneahl8ji.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahl8ji.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneufai5i config
+zone subzoneufai5i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneufai5i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoy5jee config
+zone subzoneoy5jee.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoy5jee.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneasu4ae config
+zone subzoneasu4ae.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneasu4ae.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonexi1pai config
+zone subzonexi1pai.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonexi1pai.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeed5ah config
+zone subzoneeed5ah.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeed5ah.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonevoo4ei config
+zone subzonevoo4ei.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonevoo4ei.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonekowaa2 config
+zone subzonekowaa2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonekowaa2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonequiu9e config
+zone subzonequiu9e.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonequiu9e.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohdoo0 config
+zone subzoneohdoo0.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohdoo0.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonechoot4 config
+zone subzonechoot4.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonechoot4.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedesah8 config
+zone subzonedesah8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedesah8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoogae9 config
+zone subzoneoogae9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoogae9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonedaepu8 config
+zone subzonedaepu8.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonedaepu8.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepha9ga config
+zone subzonepha9ga.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepha9ga.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneii3voj config
+zone subzoneii3voj.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneii3voj.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeeng3k config
+zone subzoneeeng3k.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeeng3k.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneae4ohf config
+zone subzoneae4ohf.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneae4ohf.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneboh4lu config
+zone subzoneboh4lu.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneboh4lu.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefai3ko config
+zone subzonefai3ko.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefai3ko.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonecaic7a config
+zone subzonecaic7a.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonecaic7a.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneohgu8o config
+zone subzoneohgu8o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneohgu8o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuazi2i config
+zone subzoneuazi2i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuazi2i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeta3ph config
+zone subzoneeta3ph.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeta3ph.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneche8yi config
+zone subzoneche8yi.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneche8yi.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonewenie1 config
+zone subzonewenie1.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonewenie1.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyei5la config
+zone subzoneyei5la.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyei5la.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneavahc6 config
+zone subzoneavahc6.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneavahc6.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneuuz1ca config
+zone subzoneuuz1ca.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneuuz1ca.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneoliem2 config
+zone subzoneoliem2.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneoliem2.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonelael2i config
+zone subzonelael2i.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonelael2i.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonehoim0o config
+zone subzonehoim0o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonehoim0o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneeh4ood config
+zone subzoneeh4ood.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneeh4ood.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonefae6ch config
+zone subzonefae6ch.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonefae6ch.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneahchu9 config
+zone subzoneahchu9.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneahchu9.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonepi7ooc config
+zone subzonepi7ooc.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonepi7ooc.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneyahy3o config
+zone subzoneyahy3o.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneyahy3o.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneaigh6w config
+zone subzoneaigh6w.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneaigh6w.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonetae5oo config
+zone subzonetae5oo.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonetae5oo.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneooroe3 config
+zone subzoneooroe3.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneooroe3.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneizoo0y config
+zone subzoneizoo0y.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneizoo0y.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzoneael0um config
+zone subzoneael0um.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzoneael0um.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonemee1da config
+zone subzonemee1da.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonemee1da.jonas-peeters.sb.uclllabs.be";
+};
+
+// subzonebuak5p config
+zone subzonebuak5p.jonas-peeters.sb.uclllabs.be. {
+	type master;
+	file "/etc/bind/zones/master/db.subzonebuak5p.jonas-peeters.sb.uclllabs.be";
+};
